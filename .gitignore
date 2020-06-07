@@ -1,6 +1,12 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+<<<<<<< HEAD
+=======
+# Visual Studio 2015 database file
+*.VC.db
+
+>>>>>>> 0738fbe... Initiate project
 # Compiled Object files
 *.slo
 *.lo
@@ -72,3 +78,17 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+<<<<<<< HEAD
+=======
+
+# Starter Content Ignored
+
+Content/StarterContent/*
+
+VSCode Files
+/.vscode/*
+BuildingEscape.code-workspace
+
+/.idea/*
+/cmake-build-debug/*
+>>>>>>> 0738fbe... Initiate project
